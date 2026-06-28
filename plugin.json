@@ -2,7 +2,7 @@
   "name": "siyuan-plugin-mermaid-zoom",
   "author": "shaohang.wu",
   "url": "https://github.com/583175694/siyuan-plugin-mermaid-zoom",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "minAppVersion": "3.5.3",
   "backends": ["all"],
   "frontends": ["desktop", "browser-desktop"],
