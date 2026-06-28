@@ -1,6 +1,6 @@
 {
   "name": "siyuan-plugin-mermaid-zoom",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "description": "Zoom and pan Mermaid/Graphviz/PlantUML diagrams in SiYuan Note",
   "main": "./src/index.js",
   "scripts": {
